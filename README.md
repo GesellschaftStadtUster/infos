@@ -24,9 +24,9 @@ Die Repositories für unsere Datensätze sind nach folgendem einheitlichen Syste
 bereich_datensatzname
 
 Folgende Bereiche sind vorgesehen:
-- kindheit-jugend (für Kindheit, Jugend, Familie und Frühe Förderung)
-- migration
-- vereine
-- quartier
-- inklusion
-- kultur
+- kind-jugend-fam_ (für Kindheit, Jugend, Familie und Frühe Förderung)
+- migration_
+- vereine_
+- quartier_
+- inklusion_
+- kultur_
